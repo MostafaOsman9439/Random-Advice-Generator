@@ -1,13 +1,13 @@
 <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/ed9203a3-cb44-4dd4-864c-da4e191fd207" />
-# 💡 Random Advice Generator
+# Random Advice Generator
 
 A beautifully designed, modern web application that fetches random motivational and life advice. This project features a sleek, futuristic Glassmorphic UI with vibrant neon accents and clean micro-interactions.
 
-📌 **Live Demo:** [View Project Live](https://mostafaosman9439.github.io/Random-Advice-Generator/)
+**Live Demo:** [View Project Live](https://mostafaosman9439.github.io/Random-Advice-Generator/)
 
 ---
 
-## 🚀 Features
+## Features
 
 * **On-Demand Advice:** Fetches a new, random piece of advice every time the action button is triggered.
 * **Futuristic Glassmorphism:** A stunning UI design utilizing modern CSS backdrop blur filters and soft shadows.
@@ -16,7 +16,7 @@ A beautifully designed, modern web application that fetches random motivational 
 
 ---
 
-## 🛠️ Tech Stack Used
+## Tech Stack Used
 
 * **HTML5:** Semantic card structure and layout.
 * **CSS3:** Advanced styling featuring `backdrop-filter: blur()`, custom box-shadows, neon glowing effects, and smooth transitions.
@@ -24,9 +24,10 @@ A beautifully designed, modern web application that fetches random motivational 
 
 ---
 
-## 📸 Preview
+## Preview
 
 <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/ed9203a3-cb44-4dd4-864c-da4e191fd207" />
 
 ---
-💡 *Built with passion by Mostafa Osman.*
+
+*Built with passion by Mostafa Osman.*
